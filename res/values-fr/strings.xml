@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">" Gestion de la suppression du stockage "</string>
+<string name="storage_clear_title">" Vider l’espace de stockage "</string>
+<string name="garbage_file">" Nettoyage des fichiers inutiles "</string>
+<string name="should_clear_file">" Fichiers inutiles et fichiers cache "</string>
+<string name="clear_storage_button">"NETTOYER"</string>
+<string name="storage_warning_level0">" Vous disposez d’une grande capacité de stockage interne, n’hésitez pas à l’utiliser. "</string>
+<string name="storage_warning_level1">" L’espace est insuffisant sur le stockage interne. Il est possible que certaines fonctions ne soient pas disponibles ; libérez immédiatement de l’espace sur le stockage. "</string>
+<string name="storage_warning_level2">" L’espace sur le stockage interne est saturé. Il est possible que certaines fonctions ne soient pas disponibles ; libérez immédiatement de l’espace sur le stockage. "</string>
+<string name="application_clear_title">" Nettoyage de fichiers et d’applications "</string>
+<string name="clear_application_button">" Entrée "</string>
+<string name="file_scanning">" Recherche en cours... "</string>
+<string name="scan_completed">" Recherche terminée "</string>
+<string name="garbage_removing">" Nettoyage en cours... "</string>
+<string name="remove_completed">" Recherche terminée "</string>
+</resources>

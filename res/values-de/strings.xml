@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"Speicherplatzverwaltung"</string>
+<string name="storage_clear_title">"Speicherplatz bereinigen"</string>
+<string name="garbage_file">"Abfalldateien bereinigen"</string>
+<string name="should_clear_file">"Abfall- und Cachedateien"</string>
+<string name="clear_storage_button">"BEREINIGEN"</string>
+<string name="storage_warning_level0">"Es ist genügend interner Speicher vorhanden, verwenden Sie ihn je nach Bedarf."</string>
+<string name="storage_warning_level1">"Der verfügbare interne Speicherplatz ist knapp. Bestimmte Systemfunktionen arbeiten unter Umständen nicht richtig. Bereinigen Sie bitte umgehend den Speicherplatz."</string>
+<string name="storage_warning_level2">"Der interne Speicherplatz ist voll. Bestimmte Systemfunktionen arbeiten unter Umständen nicht richtig. Bereinigen Sie bitte umgehend den Speicherplatz."</string>
+<string name="application_clear_title">"Datei- und Anwendungsbereinigung"</string>
+<string name="clear_application_button">"Eingabe"</string>
+<string name="file_scanning">"Wird gescannt ..."</string>
+<string name="scan_completed">"Scan abgeschlossen"</string>
+<string name="garbage_removing">"Wird bereinigt ..."</string>
+<string name="remove_completed">"Bereinigung abgeschlossen"</string>
+</resources>

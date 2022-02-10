@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"StorageClearManage"</string>
+<string name="storage_clear_title">"Garbitu biltegiratzeko tokia"</string>
+<string name="garbage_file">"Garbitu zaborrontziko fitxategiak"</string>
+<string name="should_clear_file">"Zaborrontzi eta cachean dauden fitxategiak"</string>
+<string name="clear_storage_button">"Garbitu"</string>
+<string name="storage_warning_level0">"Toki asko duzu memorian. Beraz, erabili lasai."</string>
+<string name="storage_warning_level1">"Ez dago nahikoa tokirik barruko memorian. Baliteke sistemaren funtzio batzuek behar bezala ez funtzionatzea. Garbitu eta egin tokia berehala."</string>
+<string name="storage_warning_level2">"Barruko memoria beteta dago. Baliteke sistemaren funtzio batzuek behar bezala ez funtzionatzea. Garbitu eta egin tokia berehala."</string>
+<string name="application_clear_title">"Garbitu fitxategiak eta aplikazioak"</string>
+<string name="clear_application_button">sartu</string>
+<string name="file_scanning">Eskaneatzen…</string>
+<string name="scan_completed">"Osatu da bilaketa"</string>
+<string name="garbage_removing">"Garbitzen…"</string>
+<string name="remove_completed">"Osatu da garbiketa"</string>
+</resources>

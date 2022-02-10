@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"స్టోరేజ్‌‌‌క్లియర్‌మేనేజ్"</string>
+<string name="storage_clear_title">"నిల్వ స్థలాన్ని శుభ్రపరచండి"</string>
+<string name="garbage_file">"చెత్త ఫైళ్లు శుభ్రపరిచే"</string>
+<string name="should_clear_file">"చెత్త మరియు కాష్ ఫైళ్లు"</string>
+<string name="clear_storage_button">"క్లీన్"</string>
+<string name="storage_warning_level0">"ఇంటర్నల్ స్టోరేజ్ స్పేస్ పుష్కలంగా ఉంది, కనుక ఇది ఉపయోగించడానికి సంకోచించకండి."</string>
+<string name="storage_warning_level1">"తగినంత ఇంటర్నల్ స్టోరేజ్ స్పేస్ లేదు, కొన్ని సిస్టం ఫంక్షన్స్ సరిగ్గా పని చేయకపోవచ్చు, దయచేసి వెంటనే స్టోరేజ్ స్పేస్‌ను శుభ్రపరచండి."</string>
+<string name="storage_warning_level2">"ఇంటర్నల్ స్టోరేజ్ స్పేస్ నిండింది, మరియు కొన్ని సిస్టం ఫంక్షన్స్ సరిగ్గా పనిచేయవు, దయచేసి వెంటనే స్టోరేజ్ స్పేస్‌ను శుభ్రపరచండి."</string>
+<string name="application_clear_title">"ఫైల్ మరియు అప్లికేషన్ క్లీనప్"</string>
+<string name="clear_application_button">"ఎంటర్"</string>
+<string name="file_scanning">"అన్వేషించు"</string>
+<string name="scan_completed">"స్కాన్ పూర్తయింది"</string>
+<string name="garbage_removing">"క్లీనింగ్ అప్ ..."</string>
+<string name="remove_completed">"శుభ్రత పూర్తయింది"</string>
+</resources>

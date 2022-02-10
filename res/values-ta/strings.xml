@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"செமிப்பிட சுத்த மேலாண்மை"</string>
+<string name="storage_clear_title">"சேமிப்பு இட சுத்தம்"</string>
+<string name="garbage_file">"தேவையற்ற கோப்புகளை சுத்தம்"</string>
+<string name="should_clear_file">"தேவையற்ற மற்றும் கேச் கோப்புகளை"</string>
+<string name="clear_storage_button">"சுத்தப்படுத்தவும்"</string>
+<string name="storage_warning_level0">"உள் சேமிப்பு அதிக இடம் உள்ளது, எனவே அதை பயன்படுத்த தயங்கவேண்டாம்."</string>
+<string name="storage_warning_level1">"போதுமான உள் சேமிப்பு இடம் இல்லை, சில அமைப்பு செயல்பாடுகள் ஒழுங்காக இயங்காது, தயவுசெய்து உடனடியாக சேமிப்பிட இடத்தை சுத்தம் செய்யவும்."</string>
+<string name="storage_warning_level2">"உள் சேமிப்பு இடம் நிரம்பியுள்ளது, சில அமைப்பு செயல்பாடுகள் சரியாக இயங்காது, தயவுசெய்து உடனடியாக சேமிப்பிட இடத்தை சுத்தம் செய்யவும்."</string>
+<string name="application_clear_title">"கோப்பு மற்றும் பயன்பாடு தூய்மைப்படுத்துதல்"</string>
+<string name="clear_application_button">"உள்ளிடு"</string>
+<string name="file_scanning">"ஸ்கேனிங்..."</string>
+<string name="scan_completed">"ஸ்கேன் முடிந்தது"</string>
+<string name="garbage_removing">"சுத்தம் செய்..."</string>
+<string name="remove_completed">"முழுமையான சுத்தம்"</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">StorageClearManage</string>
+<string name="storage_clear_title">Εκκαθάριση χώρου αποθήκευσης</string>
+<string name="garbage_file">Εκκαθάριση άχρηστων αρχείων</string>
+<string name="should_clear_file">Άχρηστα αρχεία και αρχεία προσωρινής μνήμης</string>
+<string name="clear_storage_button">"ΚΑΘΑΡΙΣΜΟΣ"</string>
+<string name="storage_warning_level0">Υπάρχει αρκετός εσωτερικός χώρος αποθήκευσης, χρησιμοποιήστε τον ελεύθερα.</string>
+<string name="storage_warning_level1">Δεν υπάρχει αρκετός εσωτερικός χώρος αποθήκευσης, ορισμένες λειτουργίες συστήματος ενδέχεται να μην εκτελούνται σωστά. Κάντε άμεσα εκκαθάριση του χώρου αποθήκευσης.</string>
+<string name="storage_warning_level2">Ο εσωτερικός χώρος αποθήκευσης είναι πλήρης και ορισμένες λειτουργίες συστήματος ενδέχεται να μην εκτελούνται σωστά. Κάντε άμεσα εκκαθάριση του χώρου αποθήκευσης.</string>
+<string name="application_clear_title">Εκκαθάριση αρχείων και εφαρμογών</string>
+<string name="clear_application_button">Είσοδος</string>
+<string name="file_scanning">Γίνεται σάρωση…</string>
+<string name="scan_completed">Η σάρωση ολοκληρώθηκε</string>
+<string name="garbage_removing">Εκκαθάριση...</string>
+<string name="remove_completed">Ολοκλήρωση εκκαθάρισης</string>
+</resources>

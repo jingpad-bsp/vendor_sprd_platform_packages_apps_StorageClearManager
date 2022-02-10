@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"ພື້ນທີ່ຈັດເກັບ ລຶບ ຈັດການ"</string>
+<string name="storage_clear_title">"ອະນາໄມພື້ນທີ່ຈັດເກັບ"</string>
+<string name="garbage_file">"ການອະນາໄມໄຟລຂີ້ເຫຍື້ອ"</string>
+<string name="should_clear_file">"ໄຟລຂີ້ເຫຍື້ອ ແລະ ໄຟລແຄຊ"</string>
+<string name="clear_storage_button">"ລ້າງ"</string>
+<string name="storage_warning_level0">"ມີພື້ນທີ່ຈັດເກັບໃນເຄື່ອງຢ່າງຫຼວງຫຼາຍ, ສະນັ້ນຢ່າລັງເລທີ່ຈະໃຊ້ມັນ."</string>
+<string name="storage_warning_level1">"ບໍ່ມີພື້ນທີ່ຈັດເກັບໃນເຄື່ອງພຽງພໍ, ຟັງຊັນຂອງລະບົບບາງອັນອາດຈະບໍ່ທໍາງານໄດ້ຢ່າງຖືກຕ້ອງ, ກະລຸນາອະນາໄມພື້ນທີ່ຈັດເກັບທັນທີ."</string>
+<string name="storage_warning_level2">"ພື້ນທີ່ຈັດເກັບໃນເຄື່ອງເຕັມ, ແລະ ຟັງຊັນຂອງລະບົບບາງອັນຈະບໍ່ທໍາງານໄດ້ຢ່າງຖືກຕ້ອງ, ກະລຸນາອະນາໄມພື້ນທີ່ຈັດເກັບທັນທີ."</string>
+<string name="application_clear_title">"ການອະນາໄມໄຟລ ແລະ ແອັບພລິເຄຊັນ"</string>
+<string name="clear_application_button">"ເຂົ້າ"</string>
+<string name="file_scanning">"Scanning..."</string>
+<string name="scan_completed">"ສະແກນແລ້ວໆ"</string>
+<string name="garbage_removing">"ກໍາລັງອະນາໄມ..."</string>
+<string name="remove_completed">"ອະນາໄມໃຫ້ສໍາເລັດ"</string>
+</resources>

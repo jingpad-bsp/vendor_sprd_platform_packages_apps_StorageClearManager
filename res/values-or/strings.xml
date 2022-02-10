@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"ଷ୍ଟୋରେଜକ୍ଲିୟରମ୍ୟାନେଜ"</string>
+<string name="storage_clear_title">"ଷ୍ଟୋରେ୍ଜ ଥାନ ପରିସ୍କାର କରନ୍ତୁ"</string>
+<string name="garbage_file">"ଆବର୍ଜନା ଫାଇଲ ପରିସ୍କାର"</string>
+<string name="should_clear_file">"ଆବର୍ଜନା ଏବଂ କ୍ୟାଚ ଫାଇଲଗୁଡ଼ିକ"</string>
+<string name="clear_storage_button">"ପରିଷ୍କାର କରନ୍ତୁ"</string>
+<string name="storage_warning_level0">"ପ୍ରଚୁର ଇଣ୍ଟର୍ନାଲ ଷ୍ଟୋରେଜ ରହିଛି, ଏହାକୁ ବିନା ଦ୍ୱିଧାରେ ବ୍ୟବହାର କରନ୍ତୁ."</string>
+<string name="storage_warning_level1">"ଯଥେଷ୍ଟ ଇଣ୍ଟର୍ନାଲ ଷ୍ଟୋରେଜ ସ୍ଥାନ ନାହିଁ, କିଛି ସିଷ୍ଟମ କାର୍ଯ୍ୟ ସଠିକ ଭାବେ କାମ ନକରିପାରେ, ଦୟାକରି ଷ୍ଟୋରେକ ସ୍ଥାନ ଅବିଳମ୍ବେ ପରିସ୍କାର କରନ୍ତୁ."</string>
+<string name="storage_warning_level2">"ଇଣ୍ଟର୍ନାଲ ଷ୍ଟୋରେଜ ସ୍ଥାନ ପୂର୍ଣ୍ଣ ହୋ‍ଇଯାଇଛି, ଏବଂ କିଛି ସିଷ୍ଟମ କାର୍ଯ୍ୟ ସଠିକଭାବେ କାମ କରିବ ନାହିଁ, ତୁରନ୍ତ ଷ୍ଟୋରେଜ ସ୍ଥାନ ପରିସ୍କାର କରନ୍ତୁ."</string>
+<string name="application_clear_title">"ଫାଇଲ ଓ ଆପ୍ଲିକେଶନ ପରିସ୍କାରକରିବା"</string>
+<string name="clear_application_button">"ଏଣ୍ଟର"</string>
+<string name="file_scanning">"... ସ୍କେନିଙ୍ଗ/କ୍ରମବୀକ୍ଷଣ କରୁଛି"</string>
+<string name="scan_completed">"ସ୍କାନ ସମ୍ପୂର୍ଣ୍ଣ ହୋ‍ଇଛି"</string>
+<string name="garbage_removing">"ପରିସ୍କାର କରୁଅଛି..."</string>
+<string name="remove_completed">"ପରିସ୍କାର କରିବା ସମ୍ପୂର୍ଣ୍ଣ ହୋ‍ଇଛି"</string>
+</resources>

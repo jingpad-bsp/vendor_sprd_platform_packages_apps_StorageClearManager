@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"StorageClearManage"</string>
+<string name="storage_clear_title">"Dọn sạch không gian lưu trữ"</string>
+<string name="garbage_file">"Dọn sạch tệp rác"</string>
+<string name="should_clear_file">"Rác và tệp trong bộ nhớ cache"</string>
+<string name="clear_storage_button">"DỌN DẸP"</string>
+<string name="storage_warning_level0">"Bộ nhớ trong còn nhiều dung lượng trống, bạn có thể thoải mái sử dụng."</string>
+<string name="storage_warning_level1">"Không đủ dung lượng bộ nhớ trong, một số chức năng hệ thống có thể hoạt động không chính xác, vui lòng dọn sạch ngay không gian lưu trữ."</string>
+<string name="storage_warning_level2">"Bộ nhớ trong đã đầy và một số chức năng hệ thống có thể hoạt động không chính xác, vui lòng dọn sạch ngay không gian lưu trữ."</string>
+<string name="application_clear_title">"Dọn sạch tệp và ứng dụng"</string>
+<string name="clear_application_button">"Vào"</string>
+<string name="file_scanning">"Đang quét tìm..."</string>
+<string name="scan_completed">"Quét tìm đã hoàn tất"</string>
+<string name="garbage_removing">"Đang dọn sạch..."</string>
+<string name="remove_completed">"Dọn dẹp hoàn tất"</string>
+</resources>

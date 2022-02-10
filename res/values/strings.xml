@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">StorageClearManage</string>
+    <string name="storage_clear_title">Clean up storage space</string>
+    <string name="garbage_file">Rubbish files cleanup</string>
+    <string name="should_clear_file">Rubbish and cache files</string>
+    <string name="clear_storage_button">Clean</string>
+    <string name="storage_warning_level0">There is plenty of internal storage, so feel free to use it.</string>
+    <string name="storage_warning_level1">There is not enough internal storage space, some system functions may not work properly, please clean up the storage space immediately.</string>
+    <string name="storage_warning_level2">The internal storage space is full, and some system functions will not work properly, please clean up the storage space immediately.</string>
+    <string name="application_clear_title">File and application cleanup</string>
+    <string name="clear_application_button">Enter</string>
+    <string name="file_scanning">Scanning...</string>
+    <string name="scan_completed">Scan completed</string>
+    <string name="garbage_removing">Cleaning up...</string>
+    <string name="remove_completed">Complete cleaning</string>
+</resources>

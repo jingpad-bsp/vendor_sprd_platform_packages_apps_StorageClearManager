@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimen_divider">1px</dimen>
+    <dimen name="dimen_5">5dp</dimen>
+    <dimen name="dimen_8">8dp</dimen>
+    <dimen name="dimen_10">10dp</dimen>
+    <dimen name="dimen_20">20dp</dimen>
+    <dimen name="dimen_24">24dp</dimen>
+    <dimen name="dimen_32">32dp</dimen>
+    <dimen name="dimen_42">42dp</dimen>
+    <dimen name="dimen_60">60dp</dimen>
+    <dimen name="dimen_54">54dp</dimen>
+    <dimen name="dimen_56">56dp</dimen>
+    <dimen name="dimen_72">72dp</dimen>
+    <dimen name="dimen_blank_height">20dp</dimen>
+    <dimen name="warning_font_size">14sp</dimen>
+    <dimen name="button_font_size">16sp</dimen>
+    <dimen name="category_font_size">16sp</dimen>
+    <dimen name="size_font">48sp</dimen>
+    <dimen name="size_unit_font">14sp</dimen>
+</resources>

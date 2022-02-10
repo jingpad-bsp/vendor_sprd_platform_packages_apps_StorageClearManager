@@ -1,0 +1,6 @@
+<resources>
+    <style name="header">
+        <item name="android:textSize">64sp</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+</resources>

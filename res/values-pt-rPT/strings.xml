@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"Gerir a limpeza do armazenamento"</string>
+<string name="storage_clear_title">"Limpar o espaço de armazenamento"</string>
+<string name="garbage_file">"Limpeza de ficheiros de lixo"</string>
+<string name="should_clear_file">"Ficheiros de lixo e em cache"</string>
+<string name="clear_storage_button">"LIMPAR"</string>
+<string name="storage_warning_level0">"Há muito armazenamento interno. Use-o à vontade."</string>
+<string name="storage_warning_level1">"Não há espaço de armazenamento interno suficiente. Algumas funções do sistema poderão não funcionar corretamente. Limpe o espaço de armazenamento imediatamente."</string>
+<string name="storage_warning_level2">"O espaço de armazenamento interno está cheio pelo que algumas funções do sistema não irão funcionar corretamente. Limpe o espaço de armazenamento imediatamente."</string>
+<string name="application_clear_title">"Limpeza de ficheiros e aplicações"</string>
+<string name="clear_application_button">"Inserir"</string>
+<string name="file_scanning">Explorando...</string>
+<string name="scan_completed">"Análise concluída"</string>
+<string name="garbage_removing">"A limpar..."</string>
+<string name="remove_completed">"Concluir limpeza"</string>
+</resources>

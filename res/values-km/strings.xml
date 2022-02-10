@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"StorageClearManage"</string>
+<string name="storage_clear_title">"សម្អាតទំហំផ្ទុក"</string>
+<string name="garbage_file">"ការសម្អាតឯកសារសំរាម"</string>
+<string name="should_clear_file">"ឯកសារសំរាម និងឃ្លាំងសម្ងាត់"</string>
+<string name="clear_storage_button">"សម្អាត"</string>
+<string name="storage_warning_level0">"មានទំហំផ្ទុកខាងក្នុងច្រើន ដូច្នេះសូមប្រើប្រាស់វាដោយសេរី។"</string>
+<string name="storage_warning_level1">"មិនមានទំហំផ្ទុកខាងក្នុងល្មមគ្រប់គ្រាន់ទេ មុខងារប្រព័ន្ធខ្លះអាចនឹងមិនដំណើរការបានត្រឹមត្រូវ សូមសម្អាតឲ្យមានទំហំផ្ទុកទំនេរភ្លាមៗ។"</string>
+<string name="storage_warning_level2">"ទំហំផ្ទុកខាងក្នុងពេញហើយ ហើយមុខងារប្រព័ន្ធខ្លះនឹងមិនដំណើរការត្រឹមត្រូវទេ សូមសម្អាតទំហំ ផ្ទុកឲ្យមានទំហំទំនេរភ្លាមៗ។"</string>
+<string name="application_clear_title">"ការសម្អាតឯកសារ និងកម្មវិធី"</string>
+<string name="clear_application_button">"ចុះ​បន្ទាត់"</string>
+<string name="file_scanning">កំពុងស្កេន…</string>
+<string name="scan_completed">"ការស្កេនបានបញ្ចប់"</string>
+<string name="garbage_removing">"កំពុងសម្អាត..."</string>
+<string name="remove_completed">"បញ្ចប់ការសម្អាត"</string>
+</resources>

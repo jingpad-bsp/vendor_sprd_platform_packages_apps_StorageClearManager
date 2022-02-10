@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"إدارة مسح مساحة التخزين"</string>
+<string name="storage_clear_title">"تنظيف مساحة التخزين"</string>
+<string name="garbage_file">"تنظيف ملفات المهملات"</string>
+<string name="should_clear_file">"ملفات المهملات وذاكرة التخزين المؤقت"</string>
+<string name="clear_storage_button">"تنظيف"</string>
+<string name="storage_warning_level0">"توجد مساحة تخزين داخلية كبيرة، ويمكنك استخدامها بحرية."</string>
+<string name="storage_warning_level1">"لا توجد مساحة تخزين داخلية كافية، قد لا تعمل بعض وظائف النظام بصورة صحيحة، يُرجى تنظيف مساحة التخزين في الحال."</string>
+<string name="storage_warning_level2">"مساحة التخزين الداخلية ممتلئة، ولن تعمل بعض وظائف النظام بصورة صحيحة، يُرجى تنظيف مساحة التخزين في الحال."</string>
+<string name="application_clear_title">"تنظيف الملفات والتطبيقات"</string>
+<string name="clear_application_button">"الدخول"</string>
+<string name="file_scanning">"جارٍ المسح..."</string>
+<string name="scan_completed">"اكتمل المسح"</string>
+<string name="garbage_removing">"جارِ التنظيف..."</string>
+<string name="remove_completed">"إكمال التنظيف"</string>
+</resources>

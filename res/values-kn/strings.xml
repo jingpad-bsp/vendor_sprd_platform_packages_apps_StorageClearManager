@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"ಸ್ಟೋರೇಜ್ ಕ್ಲೀನರ್ ನಿರ್ವಹಣೆ"</string>
+<string name="storage_clear_title">"ಶೇಖರಣಾ ಜಾಗವನ್ನು ಸ್ವಚ್ಛಗೊಳಿಸಿ"</string>
+<string name="garbage_file">"ಕಳಪೆ ಫೈಲ್ಸ್ ಸ್ವಚ್ಛಗೊಳಿಸುವಿಕೆ"</string>
+<string name="should_clear_file">"ಕಳಪೆ ಮತ್ತು ಕ್ಯಾಚಿ ಫೈಲ್ಗಳು"</string>
+<string name="clear_storage_button">"ಸ್ವಚ್ಛಮಾಡಿ"</string>
+<string name="storage_warning_level0">"ಸಾಕಷ್ಟು ಆಂತರಿಕ ಸಂಗ್ರಹವಿದೆ, ಆದ್ದರಿಂದ ಅದನ್ನು ಬಳಸಲು ಹಿಂಜರಿಯಬೇಡಿ."</string>
+<string name="storage_warning_level1">"ಸಾಕಷ್ಟು ಆಂತರಿಕ ಸಂಗ್ರಹಣಾ ಸ್ಥಳ ಇಲ್ಲ, ಕೆಲವು ಸಿಸ್ಟಮ್ ಕಾರ್ಯಗಳು ಸರಿಯಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸದಿರಬಹುದು, ದಯವಿಟ್ಟು ತಕ್ಷಣ ಶೇಖರಣಾ ಜಾಗವನ್ನು ಸ್ವಚ್ಛಗೊಳಿಸಿ."</string>
+<string name="storage_warning_level2">"ಆಂತರಿಕ ಶೇಖರಣಾ ಸ್ಥಳವು ತುಂಬಿದೆ, ಮತ್ತು ಕೆಲವು ಸಿಸ್ಟಮ್ ಕಾರ್ಯಗಳು ಸರಿಯಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುವುದಿಲ್ಲ, ದಯವಿಟ್ಟು ತಕ್ಷಣ ಶೇಖರಣಾ ಜಾಗವನ್ನು ಸ್ವಚ್ಛಗೊಳಿಸಿ."</string>
+<string name="application_clear_title">"ಫೈಲ್ ಮತ್ತು ಅಪ್ಲಿಕೇಶನ್ ಸ್ವಚ್ಛಗೊಳಿಸುವಿಕೆ"</string>
+<string name="clear_application_button">"ನಮೂದಿಸಿ"</string>
+<string name="file_scanning">"ಸ್ಕ್ಯಾನಿಂಗ್..."</string>
+<string name="scan_completed">"ಸ್ಕ್ಯಾನ್ ಪೂರ್ಣಗೊಂಡಿದೆ"</string>
+<string name="garbage_removing">"ಸ್ವಚ್ಛಗೊಳಿಸುವ..."</string>
+<string name="remove_completed">"ಸಂಪೂರ್ಣ ಶುಚಿಗೊಳಿಸುವಿಕೆ"</string>
+</resources>

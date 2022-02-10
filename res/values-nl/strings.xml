@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"Opslag-opschoning"</string>
+<string name="storage_clear_title">"Opslagruimte opschonen"</string>
+<string name="garbage_file">"Rommelbestanden opruimen"</string>
+<string name="should_clear_file">"Rommel- en cachebestanden"</string>
+<string name="clear_storage_button">"WIS"</string>
+<string name="storage_warning_level0">"Er is ruim voldoende interne opslagruimte, dus ga gerust uw gang."</string>
+<string name="storage_warning_level1">"Er is onvoldoende interne opslagruimte, een aantal systeemfuncties werken mogelijk niet meer naar behoren. Voer de opschoning van de opslagruimte onmiddellijk uit."</string>
+<string name="storage_warning_level2">"De interne opslagruimte is vol, een aantal systeemfuncties zullen niet meer naar behoren werken. Voer de opschoning van de opslagruimte onmiddellijk uit."</string>
+<string name="application_clear_title">"Opschoning van bestanden en app"</string>
+<string name="clear_application_button">"Enter"</string>
+<string name="file_scanning">Zoekende...</string>
+<string name="scan_completed">"Scan voltooid"</string>
+<string name="garbage_removing">"Opschonen..."</string>
+<string name="remove_completed">"Opschonen voltooien"</string>
+</resources>

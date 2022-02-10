@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"भण्डारण सफा व्यस्थापन"</string>
+<string name="storage_clear_title">"भण्डारण स्थान खाली गर्नुहोस्"</string>
+<string name="garbage_file">"रद्दी फाइलहरु सफा गर्नुहोस्"</string>
+<string name="should_clear_file">"रद्दी र क्यास फाइलहरु"</string>
+<string name="clear_storage_button">"खाली गर्नुहोस्"</string>
+<string name="storage_warning_level0">"त्यहाँ धेरै आन्तरिक भण्डारण छ, त्यसैले यसको नि:संकोच प्रयोग गर्नुहोस्।"</string>
+<string name="storage_warning_level1">"त्यहाँ पर्याप्त आन्तरिक भण्डारण स्थान छैन, केही प्रणाली प्रकार्यहरुले राम्ररी काम नगर्न सक्छन्, कृपया भण्डारण स्थान तुरुन्तै सफा गर्नुहोस्।"</string>
+<string name="storage_warning_level2">"आन्तरिक भण्डारण ठाउँ भरिएको छ, र केहि प्रणाली प्रकार्यहरुले राम्ररी काम नगर्न सक्छन्,  कृपया भण्डारण स्थान तुरुन्तै सफा गर्नुहोस्।"</string>
+<string name="application_clear_title">"फाइल र अनुप्रयोगको सरसफाई"</string>
+<string name="clear_application_button">"प्रविष्ट गर्नुहोस्"</string>
+<string name="file_scanning">"स्क्यान गर्दै..."</string>
+<string name="scan_completed">"स्क्यान पूरा भयो"</string>
+<string name="garbage_removing">"सरसफार्इ गर्दै..."</string>
+<string name="remove_completed">"पूर्ण सरसफाई"</string>
+</resources>

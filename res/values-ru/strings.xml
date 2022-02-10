@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"Очистка памяти и управление ею"</string>
+<string name="storage_clear_title">"Очистить память"</string>
+<string name="garbage_file">"Удаление ненужных файлов"</string>
+<string name="should_clear_file">"Ненужные файлы и файлы в кэше"</string>
+<string name="clear_storage_button">"ОЧИСТИТЬ"</string>
+<string name="storage_warning_level0">"Во внутренней памяти достаточно свободного места, которое вы можете использовать."</string>
+<string name="storage_warning_level1">"Во внутренней памяти недостаточно свободного места. Некоторые системные функции могут работать неправильно. Срочно почистите память."</string>
+<string name="storage_warning_level2">"Во внутренней памяти нет свободного места. Некоторые системные функции будут работать неправильно. Срочно почистите память."</string>
+<string name="application_clear_title">"Очистка файлов и приложений"</string>
+<string name="clear_application_button">"Ввод"</string>
+<string name="file_scanning">"Сканирование..."</string>
+<string name="scan_completed">"Сканирование завершено"</string>
+<string name="garbage_removing">"Очистка..."</string>
+<string name="remove_completed">"Очистка завершена"</string>
+</resources>

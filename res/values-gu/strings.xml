@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"સ્ટોરેજ સાફ કરવાનું પ્રબંધન"</string>
+<string name="storage_clear_title">"સ્ટોરેજની સ્પેસને સાફ કરો"</string>
+<string name="garbage_file">"નકામી ફાઇલ્સની સફાઈ"</string>
+<string name="should_clear_file">"નકામી અને કૅશ ફાઇલ્સ"</string>
+<string name="clear_storage_button">"સાફ કરો"</string>
+<string name="storage_warning_level0">"ઇન્ટર્નલ સ્ટોરેજમાં ઘણી જગ્યા છે, તો તેનો ઉપયોગ કરવામાં ખચકાટ અનુભવશો નહીં."</string>
+<string name="storage_warning_level1">"ઇન્ટર્નલ સ્ટોરેજમાં પૂરતી જગ્યા નથી, સિસ્ટમના કેટલાક ફંક્શન યોગ્ય રીતે કામ ન કરે તેમ બની શકે, કૃપા કરીને તાત્કાલિક સ્ટોરેજની જગ્યા ખાલી કરો."</string>
+<string name="storage_warning_level2">"ઇન્ટર્નલ સ્ટોરેજની સ્પેસ સંપૂર્ણપણે ભરાઈ ગઈ છે, આથી સિસ્ટમના કેટલાક ફંક્શન યોગ્ય રીતે કામ ન કરે તેમ બની શકે છે, કૃપા કરીને તાત્કાલિક સ્ટોરેજની જગ્યા ખાલી કરો."</string>
+<string name="application_clear_title">"ફાઇલ અને એપ્લિકેશન ક્લીનઅપ"</string>
+<string name="clear_application_button">એન્ટર</string>
+<string name="file_scanning">સ્કેનીંગ કરે છે...</string>
+<string name="scan_completed">"સ્કેન પૂર્ણ થઈ ગયું"</string>
+<string name="garbage_removing">"ક્લીન થઈ રહ્યું છે..."</string>
+<string name="remove_completed">"ક્લીનિંગ પૂર્ણ થઈ ગયું"</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">儲存空間管理</string>
+    <string name="storage_clear_title">清理儲存空間</string>
+    <string name="garbage_file">垃圾檔案清理</string>
+    <string name="should_clear_file">垃圾、緩存檔案</string>
+    <string name="clear_storage_button">一鍵清理</string>
+    <string name="storage_warning_level0">內部儲存空間充足，請放心使用</string>
+    <string name="storage_warning_level1">內部儲存空間不足，部分系統功能可能無法正常使用，請立即清理儲存空間。</string>
+    <string name="storage_warning_level2">內部儲存空間已滿，部分系統功能將無法正常使用，請立即清理儲存空間。</string>
+    <string name="application_clear_title">檔案及應用清理</string>
+    <string name="clear_application_button">進入清理</string>
+    <string name="file_scanning">正在掃描...</string>
+    <string name="scan_completed">掃描完成</string>
+    <string name="garbage_removing">正在清理...</string>
+    <string name="remove_completed">清理完成</string>
+</resources>

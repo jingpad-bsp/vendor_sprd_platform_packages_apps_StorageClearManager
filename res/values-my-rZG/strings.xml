@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"StorageClearManage"</string>
+<string name="storage_clear_title">"သိုေလွာင္ခန္းေနရာကို ရွင္းပါ"</string>
+<string name="garbage_file">"အမိႈက္ဖိုင္မ်ား ရွင္းရန္"</string>
+<string name="should_clear_file">"အမိႈက္ႏွင့္ ကက္ရွ္ဖိုင္မ်ား"</string>
+<string name="clear_storage_button">"ရွင္းလင္း"</string>
+<string name="storage_warning_level0">"စက္တြင္းသိုေလွာင္ခန္း ေျမာက္မ်ားစြာ ရွိေသာေၾကာင့္ စိတ္ေပါ့ပါးစြာ သံုးပါ။"</string>
+<string name="storage_warning_level1">"စက္သြင္း သိုေလွာင္ေနရာ အလံုအေလာက္ မရွိပါ။ အခ်ိဳ႕ေသာ လုပ္ေဆာင္ခ်က္မ်ားသည္ အဆင္ေျပစြာ အလုပ္လုပ္ႏိုင္မည္ မဟုတ္ပါ။ သိုေလွာင္ခန္းေနရာကို ခ်က္ခ်င္း ရွင္းေပးပါ။"</string>
+<string name="storage_warning_level2">"စက္တြင္း သိုေလွာင္ခန္းေနရာ ျပည့္ေန၍ အခ်ိဳ႕ေသာ လုပ္ေဆာင္ခ်က္မ်ားသည္ အဆင္ေျပစြာ အလုပ္လုပ္ႏိုင္မည္ မဟုတ္ပါ။ သိုေလွာင္ခန္းေနရာကို ခ်က္ခ်င္း ရွင္းေပးပါ။"</string>
+<string name="application_clear_title">"ဖိုင္ႏွင့္ အပလီေကးရွင္း ရွင္းလင္းျခင္း"</string>
+<string name="clear_application_button">"ဝင္ေရာက္ပါ"</string>
+<string name="file_scanning">"စကင္ဖတ္ေနသည္။္…"</string>
+<string name="scan_completed">"စကန္ ဖတ္ၿပီးပါၿပီ"</string>
+<string name="garbage_removing">"ရွင္းလင္းေနသည္..."</string>
+<string name="remove_completed">"ရွင္းလင္းၿပီးပါၿပီ"</string>
+</resources>

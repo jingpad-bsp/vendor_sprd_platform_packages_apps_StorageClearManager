@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="warning_red">#b00020</color>
+    <color name="warning_orange">#ff6f00</color>
+    <color name="warning_green">#66cc66</color>
+    <color name="button_green">#66cc66</color>
+    <color name="button_gray">#AAAAAA</color>
+    <color name="divider_color">#E5E5E5</color>
+    <color name="category_color">#212121</color>
+    <color name="small_font_color">#757575</color>    
+</resources>

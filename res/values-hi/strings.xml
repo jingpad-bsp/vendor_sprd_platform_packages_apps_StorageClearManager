@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"स्टोरेज क्लियर मैनेज"</string>
+<string name="storage_clear_title">"स्टोरेज स्पेस सफा करें"</string>
+<string name="garbage_file">"बेकार फाइलें साफ़ करें"</string>
+<string name="should_clear_file">"बेकार और कैश फाइलें"</string>
+<string name="clear_storage_button">"साफ करें"</string>
+<string name="storage_warning_level0">"इंटरनल स्टोरेज पर्याप्त है,  इसलिए इसका उपयोग खूब करें"</string>
+<string name="storage_warning_level1">"इंटरनल स्टोरेज पर्याप्त नहीं है, कुछ सिस्टम सही प्रकार से फंक्शन नहीं करें|  स्टोरेज स्पेस को तुरंत साफ करें"</string>
+<string name="storage_warning_level2">"इंटरनल स्पेस भरा हुआ है,और कुछ सिस्टम सही प्रकार से फंक्शन नहीं करें|स्टोरेज स्पेस को तुरंत साफ़ करें|"</string>
+<string name="application_clear_title">"फाइल और एप्लीकेशन क्लीन अप"</string>
+<string name="clear_application_button">"एन्टर"</string>
+<string name="file_scanning">"स्कैनिंग"</string>
+<string name="scan_completed">"स्कैन पूरा हुआ"</string>
+<string name="garbage_removing">"क्लीनिंग अप"</string>
+<string name="remove_completed">"क्लीनिंग पूरा हुआ"</string>
+</resources>

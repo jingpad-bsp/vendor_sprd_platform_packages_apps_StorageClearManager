@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"স্টোরেজ পরিষ্কার পরিচালনা করা"</string>
+<string name="storage_clear_title">"স্টোরেজ স্পেস পরিষ্কার করা"</string>
+<string name="garbage_file">"রাবিশ ফাইলগুলি পরিষ্কার করা"</string>
+<string name="should_clear_file">"রাবিশ এবং কেস ফাইলগুলি"</string>
+<string name="clear_storage_button">"পরিস্কার করুন"</string>
+<string name="storage_warning_level0">"প্রচুর অভ্যন্তরীণ স্টোরেজ রয়েছে, তাই এটি বিনা দ্বিধায় ব্যবহার করতে পারেন।"</string>
+<string name="storage_warning_level1">"পর্যাপ্ত অভ্যন্তরীণ স্টোরেজ স্পেস নেই, কিছু সিস্টেম ফাংশন সঠিকভাবে কাজ নাও করতে পারে, অবিলম্বে স্টোরেজ স্পেস সাফ করুন।"</string>
+<string name="storage_warning_level2">"অভ্যন্তরীণ স্টোরেজের স্পেসটি ভর্তি, এবং কিছু সিস্টেম ফাংশন সঠিকভাবে কাজ করবে না, অবিলম্বে স্টোরেজ স্পেস পরিষ্কার করুন।"</string>
+<string name="application_clear_title">"ফাইল এবং অ্যাপ্লিকেশন পরিষ্কার করা" </string>
+<string name="clear_application_button">"এন্টার করুন"</string>
+<string name="file_scanning">স্কেনিং চলছে…</string>
+<string name="scan_completed">"স্ক্যান সম্পূর্ণ হয়েছে"</string>
+<string name="garbage_removing">"পরিষ্কার করা..."</string>
+<string name="remove_completed">"সম্পূর্ণ পরিষ্কার"</string>
+</resources>

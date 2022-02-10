@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"ගබඩාවහිස්කරන්නපාලනය කරන්න"</string>
+<string name="storage_clear_title">"ගබඩා ඉඩ හිස් කරන්න"</string>
+<string name="garbage_file">"අනවශ්‍ය ගොනු හිස් කිරීම"</string>
+<string name="should_clear_file">"අනවශ්‍ය සහ තාවකාලික ගොනු"</string>
+<string name="clear_storage_button">"පිරිසිදු කරන්න"</string>
+<string name="storage_warning_level0">"බොහෝ අභ්‍යන්තර ඉඩ ඉතිරිව තිබේ, එය භාවිතා කිරීමට නොපැකිළෙන්න."</string>
+<string name="storage_warning_level1">"ප්‍රමාණවත් අභ්‍යන්තර ගබඩා ඉඩක් නැත, සමහර පද්ධති කාර්යයන් නිසි පරිදි ක්‍රියා නොකරනු ඇත, කරුණාකර ගබඩා ඉඩ වහාම හිස් කරන්න."</string>
+<string name="storage_warning_level2">"අභ්‍යන්තර ගබඩා ඉඩ පිරී ඇත, සමහර පද්ධති කාර්යයන් නිසි පරිදි ක්‍රියා නොකරනු ඇත, කරුණාකර ගබඩා ඉඩ වහාම හිස් කරන්න."</string>
+<string name="application_clear_title">"ගොනු සහ යෙදුම් හිස් කිරීම"</string>
+<string name="clear_application_button">"ඇතුලු කරන්න"</string>
+<string name="file_scanning">"Scanning..."</string>
+<string name="scan_completed">"ස්කෑන් කිරීම සාර්ථකයි"</string>
+<string name="garbage_removing">"හිස් කෙරෙමින්..."</string>
+<string name="remove_completed">"පිරිසිදු කිරීම සම්පූර්ණ කරන්න"</string>
+</resources>

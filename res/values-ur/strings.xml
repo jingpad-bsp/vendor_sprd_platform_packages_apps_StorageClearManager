@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">" اسٹوریج کلیئر نظم کریں"</string>
+<string name="storage_clear_title">" اسٹوریج اسپیس صاف کریں"</string>
+<string name="garbage_file">" بیکار فائلز کی صفائی"</string>
+<string name="should_clear_file">"بیکار اور کیشے فائلز"</string>
+<string name="clear_storage_button">"صاف کریں"</string>
+<string name="storage_warning_level0">" وہاں داخلی اسٹوریج اسپیس کافی نہیں ہے، اسے لئے آزادی کے ساتھ اس کا استعمال کریں۔"</string>
+<string name="storage_warning_level1">" وہاں داخلی اسٹوریج اسپیس کافی نہیں ہے، ہوسکتا ہے کچھ فنشن اچھی طرح کام نہ کرے، اس لئے براہ کرم اسٹوریج اسپیس فورا صاف کریں۔"۔"</string>
+<string name="storage_warning_level2">" وہاں داخلی اسٹوریج اسپیس کافی نہیں ہے، ہوسکتا ہے کچھ سسٹم اچھی طرح کام نہ کرے، اس لئے براہ کرم اسٹوریج اسپیس فورا صاف کریں۔"۔"</string>
+<string name="application_clear_title">" فائل اور ایپلی کیشن کلین اپ"</string>
+<string name="clear_application_button">"اینٹر"</string>
+<string name="file_scanning">"اسکین کر رہا ہے…"</string>
+<string name="scan_completed">" اسکین پورا ہوگیا"</string>
+<string name="garbage_removing">" صاف کر رہا ہے۔۔۔"</string>
+<string name="remove_completed">" مکمل صفائی"</string>
+</resources>
